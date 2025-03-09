@@ -4,4 +4,5 @@
 
 ## 🚀 Design Patterns added so far:
 - 🔹 Builder
+- 🔹 Type-safe enum
 
