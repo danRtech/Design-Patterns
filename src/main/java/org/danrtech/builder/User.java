@@ -1,5 +1,9 @@
 package org.danrtech.builder;
 
+
+/**
+ * "Builder" design pattern example.
+ */
 public class User {
     private final String name;
     private final int age;
