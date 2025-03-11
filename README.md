@@ -5,4 +5,7 @@
 ## 🚀 Design Patterns added so far:
 - 🔹 Builder
 - 🔹 Type-safe enum
+- 🔹 Factory
+  - Simple Factory
+  - Factory with Spring Dependency Injection
 
